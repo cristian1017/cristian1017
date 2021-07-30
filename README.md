@@ -1,6 +1,4 @@
-### Hola, Yo soy Cristian Mauricio Gutierrez Rivera👋
-
-<img src="https://github.com/cristian1017/cristian1017/perfilReadme.png"/>
+![Hi, I'm Wanda](https://github.com/cristian1017/cristian1017/blob/main/perfilReadme.png)
 
 ```js
 const cristian1017 = {
