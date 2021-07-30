@@ -1,5 +1,7 @@
 ### Hola, Yo soy Cristian Mauricio Gutierrez Rivera👋
 
+<img src="https://github.com/cristian1017/cristian1017/blob/master/perfilReade.png"/>
+
 ```js
 const cristian1017 = {
   pronouns: "he" | "him",
