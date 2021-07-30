@@ -1,5 +1,14 @@
 ### Hola, Yo soy Cristian Mauricio Gutierrez Rivera👋
 
+```js
+const cristian1017 = {
+  pronouns: "he" | "him",
+  code: [JavaScript, HTML, CSS],
+  tools: [ReactJS, NodeJS, ExpressJS, SASS, PostgreSQL, MongoDB]
+}
+ 
+```
+
 
 [![cristian1017 GitHub stats](https://github-readme-stats.vercel.app/api?username=cristian1017)](https://github.com/cristian1017/github-readme-stats)
 
