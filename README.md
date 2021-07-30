@@ -6,7 +6,6 @@ const cristian1017 = {
   code: [JavaScript, HTML, CSS],
   tools: [ReactJS, NodeJS, ExpressJS, SASS, PostgreSQL, MongoDB]
 }
- 
 ```
 
 
