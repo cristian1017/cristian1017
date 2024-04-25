@@ -3,8 +3,8 @@
 ```js
 const cristian1017 = {
   pronouns: "he" | "him",
-  code: [JavaScript, HTML, CSS],
-  tools: [ReactJS, NodeJS, ExpressJS, SASS, PostgreSQL, MongoDB]
+  code: [JavaScript, Python, HTML, CSS],
+  tools: [NodeJS, Express, Python, Flask, ReactJS, NextJS, SASS, PostgreSQL, MySql, MongoDB, AWS, GOOGLE CLUD, SCRUM]
 }
 ```
 
